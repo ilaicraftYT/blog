@@ -10,10 +10,10 @@ console.log("my favorite code block")
 ```
 Hope it works now
 
-<div>
+<div class="info">
   This is a test note. Just information, nothing interesting. 
 </div>
 
-<div>
+<div class="warn">
   This is a test warning. But just in case, have precaution!
 </div>
